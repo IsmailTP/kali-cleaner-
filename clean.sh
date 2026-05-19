@@ -24,9 +24,13 @@ fi
 
 function banner() {
     echo -e "${BLUE}"
-    echo "======================================="
-    echo "        KaliClean CLI Tool"
-    echo "======================================="
+    echo "================================================="
+    echo "               KaliClean CLI Tool"
+    echo "================================================="
+    echo "      Developed by: Ismail TP"
+    echo "      Cybersecurity Researcher"
+    echo "      GitHub: github.com/IsmailTP"
+    echo "================================================="
     echo -e "${RESET}"
 }
 
